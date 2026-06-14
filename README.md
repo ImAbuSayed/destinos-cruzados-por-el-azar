@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/destinos-cruzados-por-el-azar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Destinos cruzados por el azar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/destinos-cruzados-por-el-azar/) |
+| **Get License** | [Official Music Licensing for Destinos cruzados por el azar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/destinos-cruzados-por-el-azar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Girl, the neon lights are bouncing off your silhouette
+> You’re a late-night habit that I can't quit yet
+> Let the rhythm pull you closer, lose control tonight
+> We can keep it moving till the morning light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
