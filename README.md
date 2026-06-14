@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/destinos-cruzados-por-el-azar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Destinos cruzados por el azar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/destinos-cruzados-por-el-azar/) |
+| **Get License** | [Get a Licensing Quote for Destinos cruzados por el azar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/destinos-cruzados-por-el-azar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `993fa1dcd2d9ebe93e1295e569156329b3ff7fcbf560d533ca6a2e0cad0b2510` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
